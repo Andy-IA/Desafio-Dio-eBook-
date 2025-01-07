@@ -20,7 +20,7 @@ O eBook aborda temas como:
 
 ## 🚀 Como Usar
 
-1. **Baixar o eBook:** Você pode baixar o eBook [aqui](./eBook.pdf).
+1. **Baixar o eBook:** Você pode baixar o eBook [aqui](https://github.com/Andy-IA/Desafio-Dio-eBook-/blob/main/Colecionaveis%20SH%20Figuarts%20Bandai%20Star%20Wars.pdf)).
 2. **Ler os Prompts:** Confira os prompts utilizados para a criação do conteúdo [aqui](./prompts.md).
 
 ## 🌐 Referências e Créditos
